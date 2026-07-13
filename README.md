@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Lukas
 
-<!--
-**amietlukas/amietlukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing an MSc in **Robotics, Systems and Control at ETH Zürich**, with interests in:
 
-Here are some ideas to get you started:
+- Reinforcement learning for robotics
+- Robot perception
+- Sim-to-real transfer and deployment
+- Embedded and edge AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work on RL-based pedipulation with **ANYmal-D** at the ETH Robotic Systems Lab and contribute to motion control and vision software at **ETH NomadZ**, helping humanoid robots play soccer.
+
+## Tools
+
+`Python (PyTorch / OpenCV)` · `C++` · `ROS 2` · `Isaac Lab` · `Linux` · `STM32`
